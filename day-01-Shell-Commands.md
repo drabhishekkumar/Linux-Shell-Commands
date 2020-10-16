@@ -1,13 +1,17 @@
 # list files & folders in given golder
 
+
 ls
+
 ls -a
+
 ls -c
+
 man ls
 
 
 
-##Change Directory
+#Change Directory
 man cd
 cd
 cd ~
