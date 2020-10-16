@@ -12,14 +12,25 @@ man ls
 
 
 #Change Directory
+
 man cd
+
 cd
+
 cd ~
+
 cd ../
+
 cd .
+
 cd -
+
 cd Desktop
+
 cd ..
+
 cd Download
+
 cd ..
+
 cd Pictures
