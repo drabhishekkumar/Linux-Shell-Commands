@@ -10,9 +10,6 @@ ls -c
 man ls
 
 
-
-#Change Directory
-=======
 #### Change Directory
 
 
