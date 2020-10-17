@@ -1,4 +1,4 @@
-*# list files & folders in given golder
+ #### list files & folders in given golder
 
 
 ls
@@ -11,11 +11,10 @@ man ls
 
 
 
-<<<<<<< Updated upstream
 #Change Directory
 =======
-*##Change Directory
->>>>>>> Stashed changes
+#### Change Directory
+
 
 man cd
 
@@ -39,16 +38,16 @@ cd ..
 
 cd Pictures
 
-*##create Directory - mkdir
+#### create Directory - mkdir
 
 mkdir Linux_Shell
 
-*## create file using touch
+#### create file using touch
 
 touch file1.txt
 
 
-*##cp --	Copies a file to other or into directory
+#### cp --	Copies a file to other or into directory
 
 cp file1 file2
 
@@ -58,7 +57,7 @@ cp file1 ~/Linux_Shell/
 
 
 
-*##mv --	moving a file into other or into directory
+#### mv --	moving a file into other or into directory
 
 mv file1 file2
 
@@ -67,26 +66,31 @@ mv file1 ~/Linux_Shell/file2
 mv file1 ~/Linux_Shell/
 
 
-*#echo - echo
+#### echo - echo
 
 echo '~~~Hello World!!!~~~'
+
 echo "~~~Linux Commands!~~~"
 
 
-#time
+#### time
 
 time
 
-#Calender
+#### Calender
 
 cal
 
-#date
+cal -y 2020
+
+cal -y 2121
+
+#### date
 
 date
 
 
-#wc - word count in a file
+#### wc - word count in a file
 
 wc filename
 wc -c filename
