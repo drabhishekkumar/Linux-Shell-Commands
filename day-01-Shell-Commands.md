@@ -67,9 +67,11 @@ mv file1 ~/Linux_Shell/file2
 mv file1 ~/Linux_Shell/
 
 
-**echo - echo
+*#echo - echo
 
-echo "Linux Commands"
+echo '~~~Hello World!!!~~~'
+echo "~~~Linux Commands!~~~"
+
 
 #time
 
