@@ -82,3 +82,11 @@ cal
 #date
 
 date
+
+
+#wc - word count in a file
+
+wc filename
+wc -c filename
+wc -l filename
+wc -w filename
